@@ -5,9 +5,9 @@ mod "saz/vim"
 mod "mjanser/eclipse"
 
 # Modules from Github using various references
-#mod 'notifyme',
-#  :git => 'git://github.com/glarizza/puppet-notifyme',
-#  :ref => '50c01703b2e3e352520a9a2271ea4947fe17a51f'
+mod 'oracle_fusion_middleware',
+  :git => 'https://github.com/Bleecky/oracle-fusion-middleware.git',
+  :branch => 'develop'
 #
 #mod 'profiles',
 #  :git => 'git://github.com/glarizza/puppet-profiles',
